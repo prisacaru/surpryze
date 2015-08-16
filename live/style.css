@@ -2,7 +2,13 @@ div {
 color: purple;
 width: 400px;
 height: 200px;
-position: absolute;
+position: relative;
 align-self: auto;
+border-radius: 20px;
+border-style:dotted;
+border-width: 1px;
+background-color: 99ffff;
+align-self: center;
+border-color: brown;
 
 }
