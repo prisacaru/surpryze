@@ -3,7 +3,7 @@ color: purple;
 width: 400px;
 height: 200px;
 position: relative;
-align-self: auto;
+align-self: center;
 border-radius: 20px;
 border-style:dotted;
 border-width: 1px;
